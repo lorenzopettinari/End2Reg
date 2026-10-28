@@ -1,0 +1,15 @@
+torch>=2.2.0
+numpy
+easydict
+einops
+ipdb
+ipython
+pandas
+open3d>=0.18.0
+matplotlib
+scikit-learn
+tqdm
+scipy
+tensorboard
+openpyxl
+coloredlogs

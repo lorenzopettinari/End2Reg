@@ -1,0 +1,1 @@
+from end2reg.modules.sinkhorn.learnable_sinkhorn import LearnableLogOptimalTransport

@@ -1,0 +1,15 @@
+data/
+*.pth
+output/
+*.pth.tar
+*.pyc
+*.pt
+*.npz
+__pycache__/
+*.egg-info/
+build/
+dist/
+.idea/
+.vscode/
+scripts/
+predictions/
